@@ -1,21 +1,21 @@
 <div align="center" id="top"> 
   <img src="./.github/app.gif" alt="Microservice Grpc" />
 
-  &#xa0;
+&#xa0;
 
-  <!-- <a href="https://microservicegrpc.netlify.com">Demo</a> -->
+  <!-- <a href="https://microservicegrpc.netlify.app">Demo</a> -->
 </div>
 
 <h1 align="center">Microservice Grpc</h1>
 
 <p align="center">
-  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/FirerPlayer/microservice-grpc?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/FirerPlayer/microservice-grpc?color=56BEB8">
 
-  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/FirerPlayer/microservice-grpc?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/FirerPlayer/microservice-grpc?color=56BEB8">
 
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/FirerPlayer/microservice-grpc?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/FirerPlayer/microservice-grpc?color=56BEB8">
 
-  <img alt="Licença" src="https://img.shields.io/github/license/FirerPlayer/microservice-grpc?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/FirerPlayer/microservice-grpc?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/FirerPlayer/microservice-grpc?color=56BEB8" /> -->
 
@@ -26,73 +26,72 @@
 
 <!-- Status -->
 
-<!-- <h4 align="center"> 
-	🚧  Microservice Grpc 🚀 Em construção...  🚧
-</h4> 
+<!-- <h4 align="center">
+	🚧  Microservice Grpc 🚀 Under construction...  🚧
+</h4>
 
 <hr> -->
 
 <p align="center">
-  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
-  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-pré-requisitos">Pré requisitos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
-  <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
-  <a href="https://github.com/FirerPlayer" target="_blank">Autor</a>
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/FirerPlayer" target="_blank">Author</a>
 </p>
 
 <br>
 
-## :dart: Sobre ##
+## :dart: About
 
-Sobre o seu projeto
+Describe your project
 
-## :sparkles: Funcionalidades ##
+## :sparkles: Features
 
-:heavy_check_mark: Funcionalidade 1;\
-:heavy_check_mark: Funcionalidade 2;\
-:heavy_check_mark: Funcionalidade 3;
+:heavy_check_mark: Feature 1;\
+:heavy_check_mark: Feature 2;\
+:heavy_check_mark: Feature 3;
 
-## :rocket: Tecnologias ##
+## :rocket: Technologies
 
-As seguintes ferramentas foram usadas na construção do projeto:
+The following tools were used in this project:
 
-- [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
+- [gRPC](https://grpc.io/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## :white_check_mark: Pré requisitos ##
+## :white_check_mark: Requirements
 
-Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados em sua maquina.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
-## :checkered_flag: Começando ##
+## :checkered_flag: Starting
 
 ```bash
-# Clone este repositório
+# Clone this project
 $ git clone https://github.com/FirerPlayer/microservice-grpc
 
-# Entre na pasta
+# Access
 $ cd microservice-grpc
 
-# Instale as dependências
-$ yarn
+# Install dependencies
+$ npm install
 
-# Para iniciar o projeto
-$ yarn start
+# Start server
+$ npm run server
+# Start client
+$ npm run client
 
-# O app vai inicializar em <http://localhost:3000>
+# The server will initialize in the <http://localhost:3000>
 ```
 
-## :memo: Licença ##
+## :memo: License
 
-Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-
-Feito com :heart: por <a href="https://github.com/FirerPlayer" target="_blank">Micael</a>
+Made with :heart: by <a href="https://github.com/FirerPlayer" target="_blank">Micael</a>
 
 &#xa0;
 
-<a href="#top">Voltar para o topo</a>
+<a href="#top">Back to top</a>
