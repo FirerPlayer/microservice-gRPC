@@ -50,9 +50,10 @@ Describe your project
 
 ## :sparkles: Features
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Microservice with gRCP;\
+:heavy_check_mark: Binary data transmission, more fast and optimized than json transmission;\
+
+<!-- :heavy_check_mark: Feature 3; -->
 
 ## :rocket: Technologies
 
