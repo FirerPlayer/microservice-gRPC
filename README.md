@@ -46,7 +46,7 @@
 
 ## :dart: About
 
-Describe your project
+A simple gRPC microservice construction, with stream transmission. Just for learning purposes.
 
 ## :sparkles: Features
 
